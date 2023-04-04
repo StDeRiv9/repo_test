@@ -1,1 +1,1 @@
-print("Salut Beau Gosse.")
+print("Salut, je m'appelle Stéphane.")
